@@ -19,7 +19,7 @@ def getRoutes(request):
             'description': 'Returns an array of notes'
         },
         {
-            'Endpoint': '/notes/id',
+            'Endpoint': '/note/id',
             'method': 'GET',
             'body': None,
             'description': 'Returns a single object'
